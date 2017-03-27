@@ -1,2 +1,2 @@
-# knockout-playground
+# Knockout playground
 Knockout Playground

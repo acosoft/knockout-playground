@@ -197,9 +197,5 @@ function MTreeNode(config) {
 	if(config.node.selected == true) {
 		self.select();
 	}
-	
-//	$.each(config.node.children, function(index, value) {
-//		var node = new MTreeNode(value);
-//		self.children.push(node);
-//	});
+
 }

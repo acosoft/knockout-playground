@@ -1,2 +1,2 @@
-# Knockout playground
+# Knockout Playground
 Knockout Playground
